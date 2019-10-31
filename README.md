@@ -1,4 +1,4 @@
-[Check out live link to roman numeral](https://panatdacatlin.github.io/roman-numberal/)
+[Check out live link to roman numeral](https://panatdacatlin.github.io/roman-numeral/)
 
 
 Roman Numeral Specifications
